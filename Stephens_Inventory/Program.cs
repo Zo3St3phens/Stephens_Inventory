@@ -1,8 +1,7 @@
 ﻿// Alonzo Stephens
 // IT112 
-// NOTES: Notes the instructor should read
-// BEHAVIORS NOT IMPLEMENTED AND WHY: Are there any parts of the assignment 
-// you did not complete?
+// NOTES:
+// BEHAVIORS NOT IMPLEMENTED AND WHY: No actual computing
 
 
 using System;
